@@ -8,11 +8,10 @@ Style-Only <br>
 Code:<br>
 <br>
  <em>Change id name for change scroll </em><br>
- <h6>Example</h6>
- ```bash
- div id="style-default"
- 
- ```
+ <h6>Example: id="style-default"</h6>
+
+
+
  
  
 
