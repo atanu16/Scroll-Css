@@ -1,16 +1,7 @@
 # Scroll-Css
 Style-Only
 https://atanu16.github.io/Scroll-Css/
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - CSS Scroll Bars</title>
-  <link rel="stylesheet" href="./style.css">
 
-</head>
-<body>
-<!-- partial:index.partial.html -->
 <div id="wrapper">
     <div class="scrollbar" id="style-default">
       <div class="force-overflow"></div>
@@ -71,7 +62,4 @@ https://atanu16.github.io/Scroll-Css/
     <div class="scrollbar" id="style-15">
       <div class="force-overflow"></div>
     </div>
-<!-- partial -->
-  
-</body>
-</html>
+
