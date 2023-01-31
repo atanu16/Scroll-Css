@@ -5,13 +5,25 @@ Style-Only <br>
 <img src="https://i.ibb.co/YWGkHbb/Screenshot-2023-02-01-004419.png"/>
 
 
-Code:
+Code:<br>
+<br>
+ <em>Change id name for change scroll </em><br>
+ <h6>Example</h6>
+ ```bash
+ div id="style-default"
+ 
+ ```
+ 
+ 
 
-```bash
+
 /*
  *  STYLE 1
  */
-
+ 
+ 
+ 
+```bash
 #style-1::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -31,11 +43,11 @@ Code:
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 	background-color: #555;
 }
-
+```
 /*
  *  STYLE 2
  */
-
+```bash
 #style-2::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -55,10 +67,12 @@ Code:
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 	background-color: #D62929;
 }
-
+```
 /*
  *  STYLE 3
  */
+
+```bash
 
 #style-3::-webkit-scrollbar-track
 {
@@ -76,11 +90,12 @@ Code:
 {
 	background-color: #000000;
 }
-
+```
 /*
  *  STYLE 4
  */
 
+```bash
 #style-4::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -98,12 +113,13 @@ Code:
 	background-color: #000000;
 	border: 2px solid #555555;
 }
-
+```
 
 /*
  *  STYLE 5
  */
 
+```bash
 #style-5::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -124,12 +140,13 @@ Code:
 	                   color-stop(.5, rgba(255, 255, 255, .2)),
 					   color-stop(.5, transparent), to(transparent));
 }
-
+```
 
 /*
  *  STYLE 6
  */
-
+ 
+ ```bash
 #style-6::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -156,9 +173,15 @@ Code:
 }
 
 
+```
+
+
+
 /*
  *  STYLE 7
  */
+ 
+ ```bash
 
 #style-7::-webkit-scrollbar-track
 {
@@ -184,9 +207,15 @@ Code:
 									   color-stop(0.86, rgb(28,58,148)));
 }
 
+```
+
+
+
 /*
  *  STYLE 8
  */
+ 
+ ```bash
 
 #style-8::-webkit-scrollbar-track
 {
@@ -205,11 +234,15 @@ Code:
 	background-color: #000000;	
 }
 
+```
+
+
 
 /*
  *  STYLE 9
  */
-
+ 
+ ```bash
 #style-9::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -235,10 +268,13 @@ Code:
 											  transparent)
 }
 
+```
 
 /*
  *  STYLE 10
  */
+ 
+ ```bash
 
 #style-10::-webkit-scrollbar-track
 {
@@ -268,10 +304,14 @@ Code:
 }
 
 
+```
+
+
 /*
  *  STYLE 11
  */
-
+ 
+ ```bash
 #style-11::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -299,9 +339,13 @@ Code:
 											  transparent)
 }
 
+```
+
 /*
  *  STYLE 12
  */
+ 
+ ```bash
 
 #style-12::-webkit-scrollbar-track
 {
@@ -327,10 +371,14 @@ Code:
 											  transparent)
 }
 
+```
+
+
 /*
  *  STYLE 13
  */
-
+ 
+ ```bash
 #style-13::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.9);
@@ -355,9 +403,15 @@ Code:
 											  transparent)
 }
 
+```
+
+
+
 /*
  *  STYLE 14
  */
+ 
+ ```bash
 
 #style-14::-webkit-scrollbar-track
 {
@@ -382,9 +436,14 @@ Code:
 											  transparent)
 }
 
+```
+
+
 /*
  *  STYLE 15
  */
+ 
+ ```bash
 
 #style-15::-webkit-scrollbar-track
 {
@@ -411,9 +470,14 @@ Code:
 									   color-stop(.6,#54DE5D))
 }
 
+```
+
+
 /*
  *  STYLE 16
  */
+ 
+ ```bash
 
 #style-16::-webkit-scrollbar-track
 {
@@ -440,6 +504,9 @@ Code:
 }
 
 ```
+
+
+
 
 
 
